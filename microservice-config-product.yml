@@ -58,7 +58,7 @@ spring:
       max-wait-millis: 150
       
   emp: 
-    name: zhangsan
+    name: lisi
 
 eureka:
   client:
