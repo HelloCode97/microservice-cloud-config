@@ -58,7 +58,7 @@ spring:
       max-wait-millis: 150
       
   emp: 
-    name: lisi
+    name: wangwu
 
 eureka:
   client:
